@@ -2,6 +2,8 @@
 
 This project is a dashboard application built with Preact and powered by Vite.
 
+Preview - https://dashboard-assignment-sable.vercel.app/
+
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
